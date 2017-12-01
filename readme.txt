@@ -1,3 +1,1 @@
-hello!
-abc
-cde
+hello
